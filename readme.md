@@ -51,12 +51,12 @@ The recommendation system consists of four main components:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:HimanshuAgarwal136/E-commerce-Product-Recommendation-System.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd er
+   cd E-commerce-Product-Recommendation-System
    ```
 
 3. Install the required packages:
